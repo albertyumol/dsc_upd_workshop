@@ -1,9 +1,7 @@
 # Hacks in Data Analysis Pipeline and Effective Data Visualization
 
-Prepared by: 
-
-*$bash* 
-
+Prepared by: \
+*$bash* \
 for **DSC UP Diliman**
 
 The goal of the workshop is to share proven tips and tricks on doing data analysis and tools to effective graphs and charts.
